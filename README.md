@@ -4,6 +4,8 @@
 
 Продажа DIY Устройств - https://t.me/diydevmart
 
-![EFEKTA TH v2 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-v2/main/Images/photo_2023-12-02_19-53-02.jpg) 
+![EFEKTA TH v1 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-v2/main/Images/photo_2024-01-18_16-10-46%20(2).jpg) 
 
-![EFEKTA TH v2 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-v2/main/Images/photo_2023-12-02_19-53-02%20(2).jpg) 
+![EFEKTA TH v1 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-v2/main/Images/photo_2024-01-18_16-15-21.jpg) 
+
+![EFEKTA TH v1 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-v2/main/Images/photo_2024-01-18_16-15-21.jpg) 
