@@ -1,5 +1,5 @@
 {
-  "name": "Датчик температуры и влажности воздуха EFEKTA_TH_v1_LR",
+  "name": "Датчик температуры и влажности воздуха EFEKTA_TH v1 Long Range",
   "manufacturer": "EfektaLab",
   "model": "EFEKTA_TH_v1_LR",
   "manufacturerId": "EfektaLab",
@@ -192,7 +192,7 @@
       "init": false,
       "value": 1,
       "minValue": -40,
-      "maxValue": 90,
+      "maxValue": 70,
       "minStep": 1
 	},
 	{
@@ -206,7 +206,7 @@
       "init": false,
       "value": 1,
       "minValue": -40,
-      "maxValue": 90,
+      "maxValue": 70,
       "minStep": 1
 	},
 	{
