@@ -5,4 +5,6 @@ https://wiki.spruthub.ru/index.php?title=%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0
 
 Продажа DIY Устройств - https://t.me/diydevmart
 
+![EFEKTA TH v1 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-v1/main/Images/photo_2024-01-18_16-10-46.jpg) 
+
 
