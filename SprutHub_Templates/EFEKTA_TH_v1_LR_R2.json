@@ -247,8 +247,7 @@
         "type": "String",
         "init": false,
         "write": false,
-        "input": "status",
-		"value": 0
+        "input": "status"
     },
 	{
         "link": {
